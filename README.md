@@ -22,13 +22,6 @@ Access at: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
 
 ---
 
-## 📸 Screenshots
-
-> (Add these manually on GitHub or LinkedIn)
-- Postman test of GET/POST
-- H2 Console showing student table
-
----
 
 ## 🧠 What I Learned
 
